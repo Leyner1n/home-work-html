@@ -1,0 +1,40 @@
+body {
+    height: 920px;
+    background: linear-gradient(red,  yellow, green, blue, purple);
+}
+
+h1 {
+    color: white;
+    background-color: firebrick;
+}
+
+.test-1 {
+    color: white;
+    background-color: orange;
+}
+
+h2 {
+    color: white;
+    background-color: yellow;
+}
+
+.test-2 {
+    color: white;
+    background-color: green;
+}
+
+
+h3 {
+    color: white;
+    background-color: lightskyblue;
+}
+
+.test-3 {
+    color: white;
+    background-color: blue;
+}
+
+h4 {
+    color: white;
+    background-color: purple;
+}
